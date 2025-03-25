@@ -11,7 +11,7 @@ They set you up for success.
 
 No manager could do all that, right?
 That is the point of the personal learning network (or PLN).
-Even if you have an excellent manager, they will no be perfect,
+Even if you have an excellent manager, they will not be perfect,
 so create a network of people that complement the support you already have.
 
 <!-- Tool -->

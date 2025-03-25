@@ -1,5 +1,14 @@
-# Make the most out of the critical feedback you receive and disagree with
+# Handle critical feedback
 
+<!--
+So I really like this section. I think you could add something about recognizing
+the difference between feedback, even feedback that is delivered in a hostile
+manner and an actual attack (which do happen, just not as often as it feels).
+You might also suggest that if they do decide the feedback is unjustified, keep
+a record of it anyway and compare it to future feedback. If you think I'm a
+loudmouthed jerk that is one thing. If five more people think so, that is
+something else.
+ -->
 _This tool is not about agreeing or disagreeing, it is about listening and reflecting._
 
 Feedback is a gift, it can encourage you to do more of what's working

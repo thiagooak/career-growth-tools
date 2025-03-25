@@ -1,5 +1,13 @@
-# Learn new things faster
+# Learn fast
 
+
+<!--
+Possibly relatable story: As a software engineer I listened to other
+SW engineers talk about how SW is much hard than other engineering disciplines,
+the two most common examples being building a car or a bridge. So here are
+expert programmers talking about how easy some other field is, because, of course,
+they know nothing about it.
+ -->
 <!-- _Something nice here_ -->
 
 The four stages of competence is an interesting model to think about learning. The four stages are:

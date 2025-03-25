@@ -4,26 +4,27 @@
 [Acknowledgements](./ack.md)
 
 # Execution
-- [Limit your work in progress](execution/wip.md)
-- [Focus and deliver value sooner](execution/impact.md)
-- [Make the most out of the critical feedback you receive and disagree with](execution/feedback.md)
-- [Run awesome meetings](execution/meetings.md)
-- [Learn new things faster](execution/learn.md)
-- [Learn to delegate work](execution/delegate.md)
+- [Limit work in progress](execution/wip.md)
+- [Deliver value sooner](execution/impact.md)
+- [Handle critical feedback](execution/feedback.md)
+- [Run good meetings](execution/meetings.md)
+- [Learn fast](execution/learn.md)
+- [Delegate work](execution/delegate.md)
 
 # Influence
 - [Negotiate like a professional](influence/negotiate.md)
-- [Learn how to give feedback](influence/give-feedback.md)
-- [Learn how to coach](influence/coach.md)
+- [Give feedback](influence/give-feedback.md)
+- [Coach](influence/coach.md)
 - [Become a better writer](influence/write.md)
 - [Communicate to be understood](influence/be-understood.md)
 - [Adapt your style](influence/skill-will.md)
+- [Yes and…](influence/yes-and.md)
 
 # Relationships
 - [Assume good intent](relationships/good-intent.md)
-- [Mentor Voltron](relationships/mentors.md)
-- [Tactical Empathy](relationships/empathy.md)
-- [Glue Work](relationships/glue.md)
+- [Create a Personal Learning Network](relationships/mentors.md)
+- [Tactical empathy](relationships/empathy.md)
+- [Glue work](relationships/glue.md)
 - [Understand the business](relationships/business.md)
 - [Vulnerable feedback](relationships/vulnerable-feedback.md)
 

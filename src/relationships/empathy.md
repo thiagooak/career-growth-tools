@@ -1,4 +1,4 @@
-# Tactical Empathy
+# Tactical empathy
 
 _Something nice here_
 

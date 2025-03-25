@@ -1,5 +1,13 @@
-# Learn to delegate work
+# Delegate work
 
+<!--
+One of the things I don't like about many, possibly most business books
+is that they will drop the name of another book or website or blogpost and kind
+of expect me to do the footwork. I bought the book to pay *you* to do the footwork,
+to tell we what Dr. Alic Smith is saying about management and put your won spin
+on it. Again, I understand this is just an outline, and this is just me saying
+"Don't fall into that trap."
+ -->
 _Something nice here_
 
 * Delegating work is not only for managers

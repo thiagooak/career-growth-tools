@@ -1,5 +1,16 @@
-# Learn how to coach
+# Coach
 
+<!--
+"Learn to be comfortable with awkward silences. Resist the urge to fill
+every blank space with words." Yes, and, if you are doing most of the talking,
+you are doing it wrong. I was guilty of this a lot, but I'm sure you didn't
+notice.
+
+My favorite bit from "The elements of style" is a statement to the effect,
+_Break any of these rules rather than do something really egregious." I think
+something along those lines here would be helpful. We are talking about people
+here.
+ -->
 _Something nice here_
 
 > The content below is primarily from [The Tao of Coaching](https://www.amazon.com/Tao-Coaching-Effectiveness-Inspiring-Developing/dp/1781253323).

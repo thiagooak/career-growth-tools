@@ -1,5 +1,5 @@
-# Yes and… consequences, options, and sizes
+# Yes and…
 
 _Something nice here_
 
-Lipsum
+consequences, options, and sizes

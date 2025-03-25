@@ -1,5 +1,11 @@
 # Adapt your style
 
+<!--
+I might add an unconventional addition: Nudge. Sometimes you are dealing
+with a person so senior that you simply have to check in and give them very
+subtle pushes in a slightly different direction. Perhaps this is an exteme case
+of Delegate.
+ -->
 _Something nice here_
 
 Make this more generic so it can work for individual contributors and Managers

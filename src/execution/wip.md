@@ -1,7 +1,19 @@
-# Limit your work in progress
+# Limit work in progress
 
 _Don't spread yourself too thin._
 
+<!--
+Maybe tell them what they should be doing instead of starting by telling them
+what they are doing wrong. Maybe _start_ with something like:
+
+  Remember when you were early in your career? Chances are you were assigned
+  a single task and you worked on that task until it was done. And then you
+  got another...
+
+  It turns out that is still a great way to work...
+
+Something like that.
+ -->
 How many projects are working on right now? If your answer is any number
 greater than one, have you considered the cost involved in splitting
 your attention?
@@ -11,7 +23,7 @@ where you focus on execution. Someone already spent time thinking about
 priorities and sequencing so it pays off to grab a lot of tasks and complete
 them as fast as you can.
 
-Later in your career, as you become more senior, your work becomes more
+Later in your career, your work becomes more
 strategic. You are now one of the people
 thinking about priorities and sequencing. Getting priorities wrong can be
 expensive. Think about it, moving fast in the wrong direction is worse than moving slowly in the wrong direction.

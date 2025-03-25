@@ -1,5 +1,12 @@
 # Own your career development
 
+<!--
+I also think this would be the moment to step back and talk about how you
+are Thiago Inc. That your goals and your company's goals are not always the
+same and that successful people are consciously balancing their own needs
+against those of the company and the people they work for. I really like this
+section.
+ -->
 _Do not assign all of the responsibility for your career growth to your Manager.
 You should be the person devoting the most time, effort, and energy into your
 career growth._

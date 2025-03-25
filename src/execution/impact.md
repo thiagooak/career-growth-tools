@@ -1,5 +1,13 @@
-# Focus and deliver value sooner
+# Deliver value sooner
 
+<!--
+"What difference does it make if we deliver in April or Sept?"
+Me: "More than all of your annual salaries."
+
+I think you need to flesh this out a bit, talk about the costs of switching tasks
+versus the opportunity costs of delaying C until you finish A or B. My favorite
+sentence here is "It depends."
+ -->
 _Identify high-impact projects and focus on them_
 
 Imagine that you have three projects on your plate. Projects A, B, and C,

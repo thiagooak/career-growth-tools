@@ -1,7 +1,12 @@
-# Learn how to give feedback
+# Give feedback
 
 _"Observation of a behavior + Impact of behavior + Question = Actionable, specific feedback that has a chance of landing" - Lara Hogan_
 
+<!--
+Love this, but make sure you do the footwork on this as well. As an
+aside, when you flesh this out, consider if the sections really help? Sometimes
+people break their writing up into sections and it just interrupts the flow.
+ -->
 The [feedback equation](https://larahogan.me/blog/feedback-equation/) is a tool you can use to deliver feedback while maximizing the chance of it being understood.
 
 You break your feedback into three parts

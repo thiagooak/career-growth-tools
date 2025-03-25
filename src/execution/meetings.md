@@ -1,5 +1,11 @@
-# Run awesome meetings
+# Run good meetings
 
+<!--
+I realize this is just an outline, but one thing that caught my eye is
+that it might be ok for the person who is running the meeting to do most of
+the talking: If the purpose is for me to tell you about the latest shark
+attack in the lobby or whatever.
+ -->
 _Have a clear goal and don't be the only one talking_
 
 It is easy to complain about meetings, but well run meetings give us essential information and feelings of inclusion, support, voice, and community.

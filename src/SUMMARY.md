@@ -22,7 +22,7 @@
 
 # Relationships
 - [Assume good intent](relationships/good-intent.md)
-- [Create a Personal Learning Network](relationships/mentors.md)
+- [Create a personal learning network](relationships/mentors.md)
 - [Tactical empathy](relationships/empathy.md)
 - [Glue work](relationships/glue.md)
 - [Understand the business](relationships/business.md)

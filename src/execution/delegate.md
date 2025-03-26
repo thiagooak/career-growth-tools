@@ -9,6 +9,11 @@ on it. Again, I understand this is just an outline, and this is just me saying
 "Don't fall into that trap."
  -->
 _Something nice here_
+<!-- Hook -->
+<!-- Tool -->
+<!-- Evidence -->
+<!-- Story -->
+<!-- Recap -->
 
 * Delegating work is not only for managers
 * Delegation is not like a on-off switch it is a continuum (management 3.0 scale)

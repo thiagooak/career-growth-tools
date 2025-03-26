@@ -10,6 +10,11 @@ loudmouthed jerk that is one thing. If five more people think so, that is
 something else.
  -->
 _This tool is not about agreeing or disagreeing, it is about listening and reflecting._
+<!-- Hook -->
+<!-- Tool -->
+<!-- Evidence -->
+<!-- Story -->
+<!-- Recap -->
 
 Feedback is a gift, it can encourage you to do more of what's working
 and can help you correct what's not working so well.

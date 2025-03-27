@@ -8,14 +8,20 @@ against those of the company and the people they work for. I really like this
 section.
  -->
 
-_Do not assign all of the responsibility for your career growth to your Manager.
-You should be the person devoting the most time, effort, and energy into your
+_You should be the person devoting the most time, effort, and energy into your
 career growth._
+
 <!-- Hook -->
+What are your career goals? What are your company's goals? How much do they overlap?
+
 <!-- Tool -->
+
+
 <!-- Evidence -->
+https://www.researchgate.net/publication/12609065_The_Spotlight_Effect_in_Social_Judgment_An_Egocentric_Bias_in_Estimates_of_the_Salience_of_One's_Own_Actions_and_Appearance
+
 <!-- Story -->
-<!-- Recap -->
+Do not assign all of the responsibility for your career growth to your Manager.
 
 Popular management wisdom says that "people don't leave jobs, they leave
 managers." I'm not sure if there is scientific evidence to back this claim but
@@ -63,3 +69,5 @@ work yourself and not expect that your manger will figure it out for you.
 
 In any case, you should be the person devoting the most time, effort, and
 energy into your career growth.
+
+<!-- Recap -->

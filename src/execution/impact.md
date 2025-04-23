@@ -1,46 +1,31 @@
 # Deliver value sooner
 
-<!--
-"What difference does it make if we deliver in April or Sept?"
-Me: "More than all of your annual salaries."
-
-I think you need to flesh this out a bit, talk about the costs of switching tasks
-versus the opportunity costs of delaying C until you finish A or B. My favorite
-sentence here is "It depends."
- -->
 _Identify high-impact projects and focus on them_
 
-Imagine that you have three projects on your plate. Projects A, B, and C,
-they are unrelated but similar in size and priority so you decide to equally
-divide your time between them.
+<!-- Hook -->
 
-This works well, you are working on Project A and hit a roadblock, you need to
-wait for information or validation from another person or team,
-so you change your focus to Project B. You make some progress but eventually you
-are stuck again, naturally you change your focus to Project C. You make some
-progress and the day is over. You made progress on all of your projects and
-you got unstuck by changing you focus, that felt
-productive!
+Think of the projects you have to do at work as a FIFO (first-in, first-out) queue. Meaning that you work on each project in the order that they arrive. If your projects all have similar complexity and importance, this FIFO queue will work great. The project waiting the longest gets done first and you move on to the next.
 
-Was it really productive?
+Now, I would bet that your projects don't have similar complexity and importance, and you probably don't have just one project queue with a clear next item to start working on. In this setting, how can you deliver value sooner?
 
-It depends. The big variable we need to think about here is Opportunity cost.
-Opportunity cost is what you give up when you choose to do one thing
-instead of another. Any time you dedicate to Projects B and C is
-effectively delaying Project A. But the important bit is not necessarily that
-it delays the completion of Project A, but that it delays the delivery of the
-value we expect from Project A.
+<!-- Tool -->
 
-<!-- ROI = Profit / Cost
+Identify high-impact projects by calculating each project's Cost of Delay.
 
-Context Switching cost
+To calculate the Cost of Delay of a project you first need to calculate the expected value added by the project. The definition of value added will depend on what matters to your company and your customers. In general, you can think of it as some difference between the world before and after the project is completed. For example:
 
-systematically assess
+| Project Name           | Expected Value Added                              | Cost of Delay |
+| ---------------------- | ------------------------------------------------- | ------------- |
+| New feature A          | $208k/year in new subscriptions                   | $4k/week      |
+| Remove legacy B        | $52k/year in savings                              | $1k/week      |
+| Automated testing of C | $30k/hour during crash (avg 30min/week last 12mo) | $15k/week     |
 
-decision making tool: Pareto Analysis
+If you are only looking at project names you may be tempted to spend 80% of your time on "New feature A" and 20% of your time in "Automated testing of C." Once you calculate the Cost of Delay, it is clear that you should focus first on "Automated testing of C."
 
-case study
+Focus on high-impact projects by limiting your work in progress.
 
-common pitfalls
-- too much focus on the short term
-- take too long to deliver value -->
+- invisible inventory
+
+<!-- Evidence -->
+<!-- Story -->
+<!-- Recap -->

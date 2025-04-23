@@ -2,6 +2,12 @@
 
 _Don't spread yourself too thin._
 
+<!-- Hook -->
+<!-- Tool -->
+<!-- Evidence -->
+<!-- Story -->
+<!-- Recap -->
+
 <!--
 Maybe tell them what they should be doing instead of starting by telling them
 what they are doing wrong. Maybe _start_ with something like:
@@ -14,6 +20,7 @@ what they are doing wrong. Maybe _start_ with something like:
 
 Something like that.
  -->
+
 How many projects are working on right now? If your answer is any number
 greater than one, have you considered the cost involved in splitting
 your attention?
